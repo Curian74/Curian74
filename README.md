@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Cuong
 
-<!--
-**Curian74/Curian74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresher backend developer who enjoys building things and constantly learning along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I work with
+
+* .NET Core, ASP.NET Core
+* React + TypeScript
+* MySQL, SQL Server
+* REST APIs & Clean Architecture
+
+---
+
+### 🌱 What I'm learning
+
+* Writing cleaner, faster, and more maintainable backend code
+* Strengthening my problem-solving skills (DSA)
+* Exploring frontend development with Vue
+
+---
+
+### 🚧 What I'm doing now
+
+* Building small backend projects
+* Practicing DSA consistently
+* Getting a little better every day
+
+---
+
+### 📫 How to reach me
+
+* GitHub: https://github.com/Curian74
+* Email: [cuongpq114@gmail.com](mailto:cuongpq114@gmail.com)
+
+---
+✨ Thanks for stopping by — hope you have a great day!
